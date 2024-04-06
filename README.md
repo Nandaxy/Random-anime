@@ -2,9 +2,11 @@
 
 Simple website,menampilkan gambar anime secara acak menggunakan data dari API. Website ini dibangun menggunakan Vite + ReactJS.
 
+
 ## Fitur
 1. Modal, untuk melihat gambar secara full
 2. Pencarian, akan mencari gambar dari pinterest
+3. Dark Mode
 
 ## Teknologi Pengembangan 
 <div align="center">
